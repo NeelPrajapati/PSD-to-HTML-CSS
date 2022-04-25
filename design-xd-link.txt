@@ -1,0 +1,5 @@
+https://xd.adobe.com/view/60650eb6-2cf3-4f3f-9557-43c32f5fa644-3536/
+
+Fontawesome = link https://fontawesome.com/v4/icons/
+
+Webfont Generator = https://www.fontsquirrel.com/tools/webfont-generator
